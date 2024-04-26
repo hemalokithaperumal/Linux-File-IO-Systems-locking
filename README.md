@@ -93,7 +93,7 @@ return 0;
 
 ## C program that illustrates files locking
 
-
+![alt text](2.png)
 
 # RESULT:
 The programs are executed successfully.
